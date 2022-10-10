@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/iiawbhd.zip
+https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/oidsig.zip
