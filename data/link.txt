@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/arbplb.zip
+https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/rghex.zip
