@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/etmpg.zip
+https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/nwsspr.zip
