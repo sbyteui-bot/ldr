@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/kiombm.zip
+https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/obtamjs.zip
