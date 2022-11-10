@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/oahkg.zip
+https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/swbndems.zip
