@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/xtcon.zip
+https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/beldav.zip
