@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/ayrxi.zip
+https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/lases.zip
