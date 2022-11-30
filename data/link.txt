@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/nfcbb.zip
+https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/nerepflxn.zip
