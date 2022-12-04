@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/damlx.zip
+https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/lhmea.zip
