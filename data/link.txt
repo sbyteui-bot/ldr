@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/mgmff.zip
+https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/endhyc.zip
