@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/vxsol.zip
+https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/vmacpr.zip
