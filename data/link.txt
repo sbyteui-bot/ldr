@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/tflnw.zip
+https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/natsbif.zip
