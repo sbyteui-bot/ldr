@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/pfgavg.zip
+https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/hakgl.zip
