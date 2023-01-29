@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/upkor.zip
+https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/kilyb.zip
