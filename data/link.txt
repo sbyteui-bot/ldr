@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/iurgd.zip
+https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/bcdlprbd.zip
