@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/uymokg.zip
+https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/espob.zip
