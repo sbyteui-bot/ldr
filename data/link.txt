@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/pmxfs.zip
+https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/rsmbp.zip
