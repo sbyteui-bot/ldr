@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/unsmnvc.zip
+https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/dlado.zip
