@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/tdrsu.zip
+https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/vdcbox.zip
