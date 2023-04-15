@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/isowga.zip
+https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/sasmry.zip
