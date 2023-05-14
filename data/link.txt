@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/rbesoref.zip
+https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/redhour.zip
