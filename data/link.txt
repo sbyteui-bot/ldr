@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/nrncp.zip
+https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/kigjws.zip
