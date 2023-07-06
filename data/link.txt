@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/louct.zip
+https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/itohu.zip
