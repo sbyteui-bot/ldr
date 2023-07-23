@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/itibeapm.zip
+https://raw.githubusercontent.com/sbyteui-bot/ldr/main/data/uefin.zip
